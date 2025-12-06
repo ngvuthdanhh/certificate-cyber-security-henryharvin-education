@@ -14,4 +14,4 @@
 ## Case Study 3: Insider Threat
 - Employee exfiltrated sensitive company files  
 - Detected via DLP and abnormal access monitoring  
-- Lesson: Implement strong access controls and user monitoring
+- Lesson: Implement strong access controls and user monitoring.
